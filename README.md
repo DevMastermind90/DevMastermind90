@@ -25,12 +25,6 @@ Always exploring new technologies to deliver impactful solutions.
   <img src="https://skillicons.dev/icons?i=react,ts,js,python,fastapi,django,html,css,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,aws,gcp" />
 </p>
 
----
-
-### 🎨 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
