@@ -13,7 +13,7 @@
 ---
 
 ### 🌟 Introduction  
-I’m **Sean**, a passionate **Full Stack Engineer** with over 7 years of experience.  
+I’m **Simon Kade**, a passionate **Full Stack Engineer** with over 7 years of experience.  
 I love building scalable, modern applications with clean architecture.  
 My expertise spans **frontend, backend, and AI-powered features**.  
 Always exploring new technologies to deliver impactful solutions.  
